@@ -6,4 +6,4 @@ Gibbs sampler for neural network posteriors.
 3. The notebook `mlp_gibbs_mnist.ipynb` runs the Gibbs sampler on a one hidden layer fully connected neural network with ReLU activations and MNIST as dataset.
 4. The notebook `cnn_gibbs_mnist.ipynb` runs the Gibbs sampler on a simple cnn network, with MNIST as dataset.
 
-
+For an introduction to this algorithm it is recommended to go through the notebooks at points 2,3,4 in this order.
